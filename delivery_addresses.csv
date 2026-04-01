@@ -1,0 +1,45 @@
+Customer ID,Delivery place id,Delivery place name,Delivery place address,Delivery city,Delivery country,Registration date,Updated date
+CUST-741029,DEL-74815247,Plonix Distributie BV,Portweg 55,Amsterdam,Netherlands,2012-05-01,2014-05-24
+CUST-252537,DEL-25227755,Drelnex AB,Ringstrasse 14,Liege,Belgium,2022-11-14,2024-03-28
+CUST-302511,DEL-88980355,Fomtec Vertriebs GmbH,Via Industriale 82,Milan,Italy,2022-04-21,2023-08-18
+CUST-220651,DEL-63943694,Trimvolt GmbH,Lagervaegen 28,Lodz,Poland,2024-08-02,2025-06-22
+CUST-962512,DEL-73389540,Nexbit Industrie GmbH,Marconiweg 99,Leipzig,Germany,2021-04-11,2021-05-17
+CUST-684995,DEL-66011319,Quordan Electronica BV,Via Industriale 35,Bordeaux,France,2021-01-13,2025-10-07
+CUST-682893,DEL-99718662,Warstech Sp. z o.o.,Fabricksvaegen 6,Milan,Italy,2024-08-12,2025-08-30
+CUST-599370,DEL-67622341,Nexivo Solutions SARL,Via Industriale 65,Lyon,France,2018-08-03,2025-10-27
+CUST-406524,DEL-95826704,Zeltron Electronique SARL,Marconiweg 35,Lille,France,2022-11-27,2024-11-08
+CUST-599370,DEL-38613649,Nexivo Solutions SARL,Havenkade 29,Utrecht,Netherlands,2016-05-25,2020-04-16
+CUST-302511,DEL-33218249,Fomtec Vertriebs GmbH,Innovationsvaegen 90,Cologne,Germany,2017-09-25,2023-01-25
+CUST-302511,DEL-56103348,Fomtec Vertriebs GmbH,Fabricksvaegen 85,Marseille,France,2020-05-01,2021-11-22
+CUST-682893,DEL-10614828,Warstech Sp. z o.o.,Industrieweg 49,Amsterdam,Netherlands,2015-02-08,2015-07-25
+CUST-682893,DEL-29977543,Warstech Sp. z o.o.,Storkvaegen 69,Wroclaw,Poland,2013-12-26,2023-08-27
+CUST-741029,DEL-14030085,Plonix Distributie BV,Havenkade 63,Amsterdam,Netherlands,2022-05-02,2023-12-02
+CUST-441737,DEL-89036102,Zornex Handel GmbH,Rue de Commerce 78,Toulouse,France,2024-12-21,2025-10-23
+CUST-252537,DEL-57372077,Drelnex AB,Handelsweg 1,Uppsala,Sweden,2022-06-17,2025-03-08
+CUST-684995,DEL-99982041,Quordan Electronica BV,Storkvaegen 74,Den Haag,Netherlands,2022-04-24,2025-09-16
+CUST-306899,DEL-62865491,Quorbit Solutions GmbH,Rue de Commerce 52,Florence,Italy,2024-01-21,2024-10-18
+CUST-365005,DEL-48142911,Blipware Systems GmbH,Via Industriale 57,Dresden,Germany,2023-12-09,2025-07-22
+CUST-406524,DEL-18117283,Zeltron Electronique SARL,Via Industriale 94,Lille,France,2024-02-12,2024-05-20
+CUST-599370,DEL-99948615,Nexivo Solutions SARL,Rue des Fabliers 68,Gothenburg,Sweden,2019-08-21,2022-12-10
+CUST-252537,DEL-45101662,Drelnex AB,Fabricksvaegen 21,Krakow,Poland,2023-01-12,2023-11-23
+CUST-306899,DEL-60805489,Quorbit Solutions GmbH,Rue de Commerce 91,Groningen,Netherlands,2021-09-14,2023-06-19
+CUST-349362,DEL-62114395,Vektaro Sverige AB,Innovationsvaegen 79,Poznan,Poland,2024-09-11,2025-02-01
+CUST-220651,DEL-75231075,Trimvolt GmbH,Handelsweg 50,Leipzig,Germany,2024-06-14,2025-01-10
+CUST-599370,DEL-50594568,Nexivo Solutions SARL,Gewerbestrasse 90,Bologna,Italy,2015-09-06,2021-02-01
+CUST-302511,DEL-29296457,Fomtec Vertriebs GmbH,Industrieweg 64,Hamburg,Germany,2023-12-07,2024-10-13
+CUST-962512,DEL-14710637,Nexbit Industrie GmbH,Ringstrasse 81,Milan,Italy,2013-07-17,2021-08-07
+CUST-937933,DEL-49599970,Veltron Technik GmbH,ul. Fiktywna 59,Stuttgart,Germany,2022-04-26,2022-06-12
+CUST-365005,DEL-12742322,Blipware Systems GmbH,Fabricksvaegen 50,Den Haag,Netherlands,2020-01-06,2024-03-23
+CUST-441737,DEL-29466508,Zornex Handel GmbH,Havenkade 90,Hamburg,Germany,2021-06-14,2022-09-01
+CUST-306899,DEL-48053064,Quorbit Solutions GmbH,Via Industriale 42,Munich,Germany,2017-11-06,2020-01-18
+CUST-352175,DEL-24668551,Drexon Elektronik GmbH,Fabricksvaegen 55,Frankfurt,Germany,2020-08-06,2021-03-26
+CUST-937933,DEL-89434905,Veltron Technik GmbH,Fabricksvaegen 5,Wroclaw,Poland,2021-05-12,2025-07-05
+CUST-962512,DEL-68090213,Nexbit Industrie GmbH,Rue des Fabliers 65,Brussels,Belgium,2023-08-15,2023-10-21
+CUST-306899,DEL-47722481,Quorbit Solutions GmbH,Ringstrasse 96,Gdansk,Poland,2022-12-04,2025-11-22
+CUST-349362,DEL-63695756,Vektaro Sverige AB,Lagervaegen 88,Nantes,France,2023-10-28,2025-05-14
+CUST-682893,DEL-95467618,Warstech Sp. z o.o.,Portweg 33,Gdansk,Poland,2016-03-06,2022-04-17
+CUST-349362,DEL-67981318,Vektaro Sverige AB,Via Industriale 79,Linkoeping,Sweden,2023-10-10,2025-09-26
+CUST-352175,DEL-99139096,Drexon Elektronik GmbH,ul. Fiktywna 59,Bologna,Italy,2024-03-21,2025-09-27
+CUST-252537,DEL-29654179,Drelnex AB,Teknikringen 31,Stockholm,Sweden,2022-08-09,2025-03-30
+CUST-349362,DEL-57745602,Vektaro Sverige AB,Ringstrasse 49,Dresden,Germany,2023-01-24,2025-04-03
+CUST-220651,DEL-37379664,Trimvolt GmbH,Transistorstraat 61,Cologne,Germany,2023-01-11,2024-02-13
