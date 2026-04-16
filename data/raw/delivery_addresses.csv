@@ -1,0 +1,298 @@
+Customer ID,Delivery place id,Delivery place name,Delivery place address,Delivery city,Delivery country,Registration date,Updated date
+CUST-790993,DEL-83994695,Ultrabit Systeme GmbH,Depotstraat 99,Rzeszow,Poland,2020-09-10,2023-02-23
+CUST-107540,DEL-50814428,Quantex GmbH,Rue des Fabliers 65,Leipzig,Germany,2023-06-17,2024-11-13
+CUST-320281,DEL-80322629,Voltex Handel BV,Fabricksvaegen 86,Amsterdam,Netherlands,2018-07-03,2018-08-08
+CUST-617488,DEL-51455302,Stromex Systeme GmbH,Paketvaegen 44,Gdansk,Poland,2023-05-24,2023-12-16
+CUST-454508,DEL-83319550,Polybit Elektronik GmbH,Logistikweg 99,Venice,Italy,2024-12-01,2025-12-15
+CUST-542417,DEL-42301683,Zornex Handel GmbH,Fabricksvaegen 13,Bordeaux,France,2021-08-04,2021-10-21
+CUST-987204,DEL-36550845,Drelnex BV,Lagervaegen 70,Nantes,France,2018-10-02,2020-06-13
+CUST-299448,DEL-11590610,Xenobit GmbH,Via Industriale 93,Berlin,Germany,2021-01-11,2024-01-23
+CUST-863587,DEL-19067690,Webbit Handel GmbH,Gewerbestrasse 94,Venice,Italy,2014-10-21,2023-06-26
+CUST-103717,DEL-33776150,Fomvex Systemen BV,Neptunusstraat 97,Helsingborg,Sweden,2022-03-23,2025-07-01
+CUST-972064,DEL-23494908,Voltron Systems GmbH,Teknikringen 71,Marseille,France,2014-11-13,2019-06-16
+CUST-766563,DEL-39801436,Drivex GmbH,Havenkade 4,Dresden,Germany,2022-12-25,2023-04-23
+CUST-246316,DEL-58518659,Blipware Systems GmbH,Gewerbestrasse 16,Aalst,Belgium,2022-10-27,2023-08-17
+CUST-559381,DEL-70867592,Omnitech Handel GmbH,Innovationsvaegen 94,Leuven,Belgium,2016-08-26,2020-03-08
+CUST-498382,DEL-76669607,Nexbit Industrie GmbH,Handelsgatan 30,Den Haag,Netherlands,2024-07-19,2025-07-24
+CUST-246316,DEL-99635939,Blipware Systems GmbH,Entrepotstraat 9,Namur,Belgium,2023-10-20,2025-05-07
+CUST-888387,DEL-87201917,Vektax Electronique SAS,Teknikringen 98,Grenoble,France,2024-07-16,2025-04-27
+CUST-972064,DEL-42542167,Voltron Systems GmbH,Logistikweg 68,Berlin,Germany,2016-05-21,2023-07-27
+CUST-270395,DEL-58438711,Drelnex AB,Handelsweg 48,Jonkoeping,Sweden,2024-07-07,2024-11-26
+CUST-915451,DEL-26800072,Genovabit SRL,Portweg 69,Florence,Italy,2017-03-26,2022-11-23
+CUST-202664,DEL-63747464,Zenobit GmbH,Fabricksvaegen 51,Dusseldorf,Germany,2023-11-22,2024-11-13
+CUST-666390,DEL-70166480,Baribit SRL,Via Industriale 76,Venice,Italy,2019-11-03,2024-12-07
+CUST-930555,DEL-31386576,Datalux GmbH,Via Industriale 60,Lublin,Poland,2022-08-21,2024-05-23
+CUST-922733,DEL-64414096,Terrabit Handel GmbH,Entrepotstraat 99,Dusseldorf,Germany,2017-10-13,2025-07-20
+CUST-246316,DEL-33173544,Blipware Systems GmbH,Fabricksvaegen 88,Dresden,Germany,2024-12-20,2025-06-11
+CUST-456778,DEL-35649468,Fomtec Vertriebs GmbH,Havenkade 7,Poznan,Poland,2024-12-05,2025-06-02
+CUST-975136,DEL-33640702,Zoltrix BV,Fabriksgatan 35,Breda,Netherlands,2023-02-13,2025-11-09
+CUST-288073,DEL-46578001,Florbix Teknik AB,Rue des Fabliers 62,Malmoe,Sweden,2024-08-20,2025-01-28
+CUST-371782,DEL-45106207,Napolibit SRL,Via Industriale 64,Venice,Italy,2021-06-21,2022-01-18
+CUST-653306,DEL-48683937,Megabit Systeme GmbH,Handelsgatan 71,Leipzig,Germany,2015-03-11,2020-04-25
+CUST-891952,DEL-73280554,Nanobit GmbH,Portweg 72,Berlin,Germany,2020-09-11,2025-11-08
+CUST-103717,DEL-70251043,Fomvex Systemen BV,Fabriksgatan 82,Nijmegen,Netherlands,2022-11-27,2024-09-28
+CUST-549245,DEL-47111151,Technobit Handel GmbH,Handelsgatan 68,Bari,Italy,2021-08-21,2023-04-02
+CUST-741390,DEL-42981324,Nexbit France SARL,Rue de Commerce 84,Strasbourg,France,2024-05-21,2025-05-11
+CUST-183667,DEL-56321751,Stronex Systeme GmbH,Rue de Commerce 98,Namur,Belgium,2024-08-23,2025-03-14
+CUST-656932,DEL-20071854,Firenzbit SRL,Havenkade 66,Vasteras,Sweden,2024-06-11,2024-12-01
+CUST-972064,DEL-41250794,Voltron Systems GmbH,Lagervaegen 53,Brussels,Belgium,2018-09-25,2024-01-21
+CUST-770487,DEL-86866717,Veltron Technik GmbH,Marconiweg 22,Dusseldorf,Germany,2019-11-16,2025-09-26
+CUST-731262,DEL-28761086,Quorbit Solutions GmbH,Portweg 41,Namur,Belgium,2022-09-15,2024-12-07
+CUST-989545,DEL-53106399,Bolbit SRL,Fabriksgatan 8,Florence,Italy,2024-10-04,2024-11-28
+CUST-838797,DEL-26297533,Plexbit Handel GmbH,Fabriksgatan 78,Brussels,Belgium,2024-02-06,2024-10-18
+CUST-960394,DEL-53112268,Trimbit Handel AB,Fabricksvaegen 42,Antwerp,Belgium,2021-10-09,2023-06-16
+CUST-400850,DEL-46702849,Antwertech NV,Lagervaegen 74,Stuttgart,Germany,2024-11-03,2025-08-18
+CUST-770487,DEL-75609379,Veltron Technik GmbH,Via Industriale 58,Munich,Germany,2016-10-26,2021-12-06
+CUST-645175,DEL-82017516,Kraktech Sp. z o.o.,Neptunusstraat 48,Gothenburg,Sweden,2017-06-23,2024-01-22
+CUST-617488,DEL-60557040,Stromex Systeme GmbH,Marconiweg 86,Orebro,Sweden,2024-04-17,2024-07-31
+CUST-526117,DEL-37888820,Vektaro Sverige AB,Rue des Fabliers 85,Liege,Belgium,2016-03-31,2018-01-13
+CUST-520521,DEL-57459130,Betabit Systeme GmbH,Industrivaegen 7,Nantes,France,2016-07-11,2023-04-15
+CUST-234628,DEL-86010330,Flexon Handel GmbH,Fabricksvaegen 19,Naples,Italy,2024-06-07,2024-07-18
+CUST-262316,DEL-64877191,Deltabit Handel GmbH,Handelsgatan 18,Hamburg,Germany,2020-10-07,2022-11-22
+CUST-888387,DEL-87342561,Vektax Electronique SAS,Handelsgatan 97,Paris,France,2023-02-23,2025-10-23
+CUST-632342,DEL-34970946,Solbit Systeme GmbH,Via Industriale 50,Dresden,Germany,2023-01-07,2023-09-15
+CUST-930555,DEL-53947691,Datalux GmbH,Industrivaegen 41,Nuremberg,Germany,2015-09-17,2024-04-17
+CUST-266931,DEL-80980044,Gorvex Nordic AB,Industrivaegen 29,Gdansk,Poland,2010-12-22,2011-07-06
+CUST-877236,DEL-53622663,Nexbit Holland BV,Ringstrasse 28,Utrecht,Netherlands,2023-08-08,2025-11-11
+CUST-863934,DEL-59302863,Quormax Nordic AB,Fabriksgatan 46,Jonkoeping,Sweden,2021-11-02,2024-02-05
+CUST-547470,DEL-51827259,Venetobit SRL,Handelsgatan 73,Cologne,Germany,2024-01-07,2024-04-12
+CUST-444207,DEL-96057593,Zoltrix Sverige AB,Havenkade 71,Lublin,Poland,2022-01-11,2024-12-12
+CUST-515011,DEL-35606639,Plonex France SARL,Neptunusstraat 41,Milan,Italy,2022-08-18,2023-07-04
+CUST-766563,DEL-63211150,Drivex GmbH,Havenkade 31,Dusseldorf,Germany,2022-08-29,2023-02-22
+CUST-515011,DEL-65426567,Plonex France SARL,Innovationsvaegen 65,Wroclaw,Poland,2024-08-17,2025-07-06
+CUST-891952,DEL-50559278,Nanobit GmbH,Lagervaegen 18,Tilburg,Netherlands,2017-07-11,2017-12-20
+CUST-100599,DEL-56420476,Teknobit Handel GmbH,Lagervaegen 56,Berlin,Germany,2015-09-02,2025-02-06
+CUST-922157,DEL-26937148,Gammabit GmbH,Portweg 82,Poznan,Poland,2022-10-18,2025-11-24
+CUST-520521,DEL-51936181,Betabit Systeme GmbH,Lagervaegen 74,Lille,France,2021-06-15,2022-09-03
+CUST-922733,DEL-25759274,Terrabit Handel GmbH,Havenkade 79,Stuttgart,Germany,2016-10-09,2019-04-04
+CUST-444207,DEL-31751079,Zoltrix Sverige AB,Portweg 18,Uppsala,Sweden,2022-11-09,2023-03-05
+CUST-169403,DEL-72950208,Nexaron GmbH,Havenkade 87,Frankfurt,Germany,2024-05-07,2025-08-11
+CUST-771088,DEL-20200074,Brexon Handel GmbH,Entrepotstraat 81,Nuremberg,Germany,2020-01-09,2021-03-11
+CUST-340174,DEL-86745380,Fluxbit Systeme GmbH,Gewerbestrasse 53,Leipzig,Germany,2017-08-04,2021-03-09
+CUST-287241,DEL-84870921,Voltex Sverige AB,Handelsgatan 19,Orebro,Sweden,2020-11-20,2024-04-16
+CUST-287241,DEL-78333267,Voltex Sverige AB,Via Industriale 6,Tilburg,Netherlands,2020-01-10,2020-06-27
+CUST-863587,DEL-95318289,Webbit Handel GmbH,Havenkade 33,Leipzig,Germany,2012-11-04,2020-11-17
+CUST-563246,DEL-45105069,Ghentbit BVBA,Entrepotstraat 31,Orebro,Sweden,2018-03-29,2025-10-03
+CUST-563246,DEL-99826000,Ghentbit BVBA,Depotstraat 18,Antwerp,Belgium,2022-11-24,2024-09-26
+CUST-795613,DEL-94712997,Quordan Electronica BV,Gewerbestrasse 96,Den Haag,Netherlands,2014-06-15,2024-03-19
+CUST-132938,DEL-59167775,Rapidbit Systeme GmbH,Storkvaegen 73,Namur,Belgium,2015-09-23,2022-07-16
+CUST-526117,DEL-86320155,Vektaro Sverige AB,Industrieweg 79,Norrkoping,Sweden,2023-08-21,2023-12-10
+CUST-585100,DEL-58657117,Yottabit Systeme GmbH,ul. Fiktywna 10,Jonkoeping,Sweden,2020-05-19,2023-03-27
+CUST-172132,DEL-42866956,Fomtex France SAS,ul. Fiktywna 59,Katowice,Poland,2020-04-06,2020-12-17
+CUST-571029,DEL-42323627,Drexon Elektronik GmbH,Handelsweg 19,Mons,Belgium,2015-05-20,2020-07-30
+CUST-182627,DEL-46385762,Gorvex Elektronik GmbH,Fabricksvaegen 88,Stockholm,Sweden,2021-04-13,2024-05-09
+CUST-329471,DEL-85383550,Torinbit SRL,Transistorstraat 31,Rotterdam,Netherlands,2020-11-05,2021-07-23
+CUST-946335,DEL-50693207,Trimvolt GmbH,Paketvaegen 25,Berlin,Germany,2022-09-17,2025-06-03
+CUST-802729,DEL-87446468,Voltaro Technik GmbH,Marconiweg 20,Berlin,Germany,2024-04-01,2025-02-16
+CUST-262316,DEL-82633735,Deltabit Handel GmbH,Fabricksvaegen 61,Berlin,Germany,2012-01-19,2018-07-07
+CUST-802729,DEL-90010790,Voltaro Technik GmbH,Gewerbestrasse 67,Nuremberg,Germany,2020-02-28,2025-03-28
+CUST-148458,DEL-17352710,Brugbit NV,Paketvaegen 39,Stockholm,Sweden,2023-07-13,2025-09-15
+CUST-107540,DEL-68755000,Quantex GmbH,Portweg 6,Gothenburg,Sweden,2021-01-14,2025-03-08
+CUST-915451,DEL-98413629,Genovabit SRL,Industrivaegen 78,Mechelen,Belgium,2019-12-21,2020-06-16
+CUST-333238,DEL-87507357,Nexbit Sverige AB,Handelsgatan 87,Norrkoping,Sweden,2021-06-19,2022-10-27
+CUST-163918,DEL-80392240,Epsilonbit Systeme GmbH,Entrepotstraat 54,Orebro,Sweden,2020-04-22,2022-01-03
+CUST-787926,DEL-37291394,Romabit SRL,Fabriksgatan 11,Cologne,Germany,2022-07-04,2024-08-11
+CUST-787277,DEL-52018286,Zirconex Elektronik GmbH,Innovationsvaegen 74,Mechelen,Belgium,2022-08-02,2024-12-14
+CUST-790993,DEL-77493234,Ultrabit Systeme GmbH,Lagervaegen 67,Berlin,Germany,2020-12-17,2022-09-10
+CUST-103717,DEL-90852623,Fomvex Systemen BV,Handelsgatan 98,Ghent,Belgium,2023-04-02,2023-06-28
+CUST-182582,DEL-73411827,Databit GmbH,Handelsgatan 91,Hamburg,Germany,2022-02-05,2024-08-21
+CUST-975136,DEL-72394301,Zoltrix BV,Industrivaegen 76,Leuven,Belgium,2021-03-03,2023-01-02
+CUST-563246,DEL-43292316,Ghentbit BVBA,Rue des Fabliers 50,Stockholm,Sweden,2020-03-08,2025-03-21
+CUST-877236,DEL-44675473,Nexbit Holland BV,Rue des Fabliers 77,Lodz,Poland,2024-07-28,2025-05-16
+CUST-838797,DEL-83715012,Plexbit Handel GmbH,ul. Fiktywna 57,Ghent,Belgium,2022-12-20,2025-09-17
+CUST-795613,DEL-16172803,Quordan Electronica BV,Industrieweg 38,Orebro,Sweden,2020-06-19,2022-08-05
+CUST-922157,DEL-63904155,Gammabit GmbH,Logistikweg 14,Leipzig,Germany,2022-04-07,2024-10-11
+CUST-324643,DEL-59930790,Solaron GmbH,Handelsgatan 10,Dresden,Germany,2024-06-10,2024-11-07
+CUST-617488,DEL-96707983,Stromex Systeme GmbH,Via Industriale 47,Naples,Italy,2012-11-23,2021-01-20
+CUST-373432,DEL-84285882,Trimvex Solutions SAS,Havenkade 55,Aalst,Belgium,2023-09-30,2025-04-25
+CUST-571029,DEL-95618110,Drexon Elektronik GmbH,Neptunusstraat 33,Stuttgart,Germany,2010-05-20,2020-11-04
+CUST-787277,DEL-92963368,Zirconex Elektronik GmbH,Entrepotstraat 47,Genoa,Italy,2020-10-23,2023-04-15
+CUST-787926,DEL-84797762,Romabit SRL,Marconiweg 50,Aalst,Belgium,2017-11-12,2020-10-01
+CUST-225710,DEL-80381817,Blorvex Systemes SAS,Gewerbestrasse 25,Marseille,France,2024-10-26,2025-08-01
+CUST-987204,DEL-48668783,Drelnex BV,Entrepotstraat 59,Den Haag,Netherlands,2017-01-11,2024-10-06
+CUST-660086,DEL-43822301,Keltron Vertriebs GmbH,Marconiweg 43,Nuremberg,Germany,2020-11-06,2024-02-22
+CUST-571029,DEL-32814819,Drexon Elektronik GmbH,Fabricksvaegen 79,Hamburg,Germany,2018-10-02,2025-09-23
+CUST-741390,DEL-71851421,Nexbit France SARL,Industrivaegen 46,Ghent,Belgium,2022-12-10,2023-10-02
+CUST-656932,DEL-92523968,Firenzbit SRL,Rue des Fabliers 82,Vasteras,Sweden,2024-05-22,2024-07-29
+CUST-320281,DEL-92924441,Voltex Handel BV,Ringstrasse 85,Nijmegen,Netherlands,2023-06-07,2023-07-03
+CUST-960394,DEL-20593403,Trimbit Handel AB,Portweg 24,Nantes,France,2020-06-23,2022-02-24
+CUST-172132,DEL-31217198,Fomtex France SAS,Innovationsvaegen 62,Strasbourg,France,2022-06-17,2023-08-18
+CUST-503906,DEL-16679008,Warstech Sp. z o.o.,Rue des Fabliers 57,Krakow,Poland,2023-07-09,2024-09-25
+CUST-549245,DEL-81922443,Technobit Handel GmbH,Paketvaegen 28,Hamburg,Germany,2023-03-25,2024-08-11
+CUST-373432,DEL-70152969,Trimvex Solutions SAS,Fabricksvaegen 38,Paris,France,2017-11-12,2022-06-05
+CUST-958179,DEL-49597485,Liegetech SA,Logistikweg 97,Bari,Italy,2017-08-31,2019-08-29
+CUST-270395,DEL-92134318,Drelnex AB,Fabricksvaegen 40,Gothenburg,Sweden,2023-09-27,2025-10-10
+CUST-266931,DEL-50045602,Gorvex Nordic AB,Logistikweg 93,Genoa,Italy,2023-02-09,2025-07-06
+CUST-371782,DEL-45000508,Napolibit SRL,Handelsweg 75,Rennes,France,2024-04-27,2025-07-08
+CUST-132938,DEL-68810561,Rapidbit Systeme GmbH,Marconiweg 9,Berlin,Germany,2018-01-04,2025-04-09
+CUST-771088,DEL-96911784,Brexon Handel GmbH,Teknikringen 54,Lille,France,2022-10-18,2023-06-01
+CUST-666390,DEL-77624084,Baribit SRL,Portweg 6,Wroclaw,Poland,2024-06-18,2025-05-02
+CUST-653306,DEL-64247457,Megabit Systeme GmbH,Teknikringen 85,Palermo,Italy,2024-07-11,2025-11-06
+CUST-660086,DEL-58841557,Keltron Vertriebs GmbH,ul. Fiktywna 50,Cologne,Germany,2022-09-08,2024-08-10
+CUST-371782,DEL-73013937,Napolibit SRL,Paketvaegen 48,Groningen,Netherlands,2019-10-03,2024-06-03
+CUST-329471,DEL-56354851,Torinbit SRL,Marconiweg 98,Naples,Italy,2019-10-09,2025-07-28
+CUST-320281,DEL-11226946,Voltex Handel BV,Via Industriale 59,Bologna,Italy,2022-02-22,2022-07-05
+CUST-960394,DEL-59304469,Trimbit Handel AB,Rue des Fabliers 11,Jonkoeping,Sweden,2022-07-07,2024-12-02
+CUST-454508,DEL-37828932,Polybit Elektronik GmbH,Transistorstraat 85,Dusseldorf,Germany,2020-07-21,2023-07-12
+CUST-617488,DEL-27307598,Stromex Systeme GmbH,Entrepotstraat 11,Nuremberg,Germany,2019-06-07,2025-09-22
+CUST-660086,DEL-54250344,Keltron Vertriebs GmbH,Rue de Commerce 87,Antwerp,Belgium,2022-07-24,2024-03-06
+CUST-795613,DEL-23212812,Quordan Electronica BV,Neptunusstraat 22,Rome,Italy,2019-02-22,2019-06-30
+CUST-498382,DEL-39394291,Nexbit Industrie GmbH,Portweg 33,Bologna,Italy,2019-04-11,2020-05-22
+CUST-526117,DEL-42194159,Vektaro Sverige AB,Rue de Commerce 10,Marseille,France,2017-02-03,2017-02-23
+CUST-185965,DEL-95462880,Quormax France SARL,Entrepotstraat 22,Berlin,Germany,2022-03-20,2025-01-16
+CUST-753425,DEL-66808292,Gdanskbit Sp. z o.o.,Handelsgatan 37,Krakow,Poland,2019-06-06,2022-10-31
+CUST-400850,DEL-37820354,Antwertech NV,Transistorstraat 62,Strasbourg,France,2021-03-01,2024-05-01
+CUST-820892,DEL-20607151,Vektaro Handel BV,Neptunusstraat 84,Groningen,Netherlands,2018-07-15,2023-12-08
+CUST-456778,DEL-15879578,Fomtec Vertriebs GmbH,Industrieweg 41,Frankfurt,Germany,2021-01-20,2023-12-21
+CUST-172132,DEL-76845536,Fomtex France SAS,ul. Fiktywna 83,Rennes,France,2021-07-19,2024-04-13
+CUST-373432,DEL-42655866,Trimvex Solutions SAS,Logistikweg 75,Florence,Italy,2019-07-09,2024-11-07
+CUST-266931,DEL-27849589,Gorvex Nordic AB,Lagervaegen 23,Orebro,Sweden,2022-12-12,2025-03-05
+CUST-922157,DEL-19863756,Gammabit GmbH,Transistorstraat 78,Munich,Germany,2020-05-06,2021-02-09
+CUST-890170,DEL-91300905,Alphabit Handel GmbH,Innovationsvaegen 90,Cologne,Germany,2023-12-31,2025-05-06
+CUST-958179,DEL-71594457,Liegetech SA,Entrepotstraat 24,Bruges,Belgium,2013-08-25,2021-03-27
+CUST-802729,DEL-21432787,Voltaro Technik GmbH,Lagervaegen 72,Bordeaux,France,2020-12-17,2024-05-21
+CUST-542417,DEL-42847661,Zornex Handel GmbH,Storkvaegen 57,Amsterdam,Netherlands,2017-07-23,2023-08-21
+CUST-770487,DEL-85721444,Veltron Technik GmbH,Industrieweg 71,Munich,Germany,2021-11-12,2023-01-10
+CUST-877236,DEL-84597009,Nexbit Holland BV,Via Industriale 25,Warsaw,Poland,2022-11-05,2024-03-23
+CUST-915451,DEL-96031876,Genovabit SRL,Handelsweg 75,Turin,Italy,2017-11-30,2019-11-11
+CUST-262998,DEL-12921981,Plonix Distributie BV,Rue des Fabliers 1,Leuven,Belgium,2020-02-28,2021-01-02
+CUST-660086,DEL-90246882,Keltron Vertriebs GmbH,Fabriksgatan 83,Amsterdam,Netherlands,2022-04-09,2022-08-31
+CUST-555884,DEL-20356922,Quatrix Elektronik GmbH,Lagervaegen 65,Stuttgart,Germany,2024-07-30,2025-05-12
+CUST-234628,DEL-51471222,Flexon Handel GmbH,Havenkade 1,Cologne,Germany,2022-11-12,2023-09-11
+CUST-738551,DEL-16917129,Rapidex GmbH,Storkvaegen 87,Stuttgart,Germany,2014-07-15,2016-03-12
+CUST-233470,DEL-75746104,Poztech Sp. z o.o.,ul. Fiktywna 61,Rzeszow,Poland,2018-09-19,2022-11-15
+CUST-181247,DEL-67611469,Palermobit SRL,Portweg 46,Stockholm,Sweden,2020-04-04,2024-12-15
+CUST-787277,DEL-48858073,Zirconex Elektronik GmbH,Storkvaegen 3,Gothenburg,Sweden,2022-02-20,2023-02-16
+CUST-176819,DEL-75884623,Drexim SARL,Teknikringen 74,Antwerp,Belgium,2019-05-18,2024-08-31
+CUST-163918,DEL-46930534,Epsilonbit Systeme GmbH,Rue de Commerce 76,Berlin,Germany,2015-01-29,2022-02-15
+CUST-148458,DEL-80723898,Brugbit NV,Industrieweg 29,Bruges,Belgium,2024-01-17,2025-10-01
+CUST-838797,DEL-93940940,Plexbit Handel GmbH,Handelsgatan 7,Dresden,Germany,2017-06-02,2020-06-09
+CUST-890170,DEL-82144402,Alphabit Handel GmbH,Handelsgatan 32,Liege,Belgium,2024-09-25,2025-10-26
+CUST-724834,DEL-88862539,Infovolt GmbH,Fabriksgatan 55,Stuttgart,Germany,2024-05-15,2025-02-05
+CUST-143860,DEL-24401654,Blipcore Nederland BV,ul. Fiktywna 59,Groningen,Netherlands,2023-02-08,2025-11-25
+CUST-100599,DEL-61518966,Teknobit Handel GmbH,Entrepotstraat 93,Turin,Italy,2012-03-22,2023-06-25
+CUST-653306,DEL-24039158,Megabit Systeme GmbH,Transistorstraat 53,Hamburg,Germany,2022-07-23,2025-05-12
+CUST-424308,DEL-70468188,Wrocbit Sp. z o.o.,Transistorstraat 92,Munich,Germany,2017-08-09,2023-04-16
+CUST-324643,DEL-81062902,Solaron GmbH,Storkvaegen 41,Orebro,Sweden,2024-08-27,2025-01-26
+CUST-547470,DEL-60491958,Venetobit SRL,Neptunusstraat 44,Naples,Italy,2021-07-22,2023-08-28
+CUST-176819,DEL-17318358,Drexim SARL,ul. Fiktywna 90,Rennes,France,2015-10-31,2023-01-04
+CUST-770487,DEL-69302835,Veltron Technik GmbH,Logistikweg 27,Rome,Italy,2024-03-27,2025-11-24
+CUST-585100,DEL-70445541,Yottabit Systeme GmbH,Rue des Fabliers 80,Bialystok,Poland,2014-05-20,2017-04-18
+CUST-820892,DEL-38720823,Vektaro Handel BV,Rue de Commerce 35,Bologna,Italy,2021-12-18,2025-11-22
+CUST-246413,DEL-97883261,Optivolt GmbH,Fabricksvaegen 61,Ghent,Belgium,2023-08-08,2024-07-29
+CUST-103717,DEL-41711468,Fomvex Systemen BV,Marconiweg 33,Rotterdam,Netherlands,2018-02-11,2020-02-01
+CUST-738551,DEL-35254849,Rapidex GmbH,Industrivaegen 86,Grenoble,France,2018-07-08,2023-12-02
+CUST-169403,DEL-70254091,Nexaron GmbH,Rue de Commerce 31,Bologna,Italy,2023-08-13,2025-11-28
+CUST-632342,DEL-45135070,Solbit Systeme GmbH,Entrepotstraat 58,Stuttgart,Germany,2019-02-15,2022-05-09
+CUST-182627,DEL-80888325,Gorvex Elektronik GmbH,Gewerbestrasse 28,Berlin,Germany,2024-06-29,2025-11-07
+CUST-169403,DEL-41880763,Nexaron GmbH,Portweg 37,Dresden,Germany,2024-11-09,2025-12-07
+CUST-753425,DEL-26354208,Gdanskbit Sp. z o.o.,Gewerbestrasse 54,Milan,Italy,2023-12-06,2025-09-13
+CUST-400850,DEL-84905122,Antwertech NV,Gewerbestrasse 39,Bruges,Belgium,2020-06-29,2024-06-21
+CUST-444207,DEL-26733967,Zoltrix Sverige AB,Fabricksvaegen 98,Poznan,Poland,2022-05-09,2023-11-28
+CUST-107540,DEL-89865458,Quantex GmbH,ul. Fiktywna 57,Nuremberg,Germany,2014-02-19,2024-09-03
+CUST-559381,DEL-38859907,Omnitech Handel GmbH,Neptunusstraat 30,Leuven,Belgium,2020-03-23,2024-01-20
+CUST-812526,DEL-24524825,Blipcore Nordic AB,Rue de Commerce 48,Orebro,Sweden,2015-03-11,2023-10-08
+CUST-333238,DEL-28808678,Nexbit Sverige AB,ul. Fiktywna 30,Jonkoeping,Sweden,2024-04-30,2025-04-01
+CUST-520521,DEL-60015814,Betabit Systeme GmbH,Rue de Commerce 8,Hamburg,Germany,2023-03-25,2025-12-08
+CUST-745414,DEL-41272553,Bruxbit SARL,Handelsgatan 19,Cologne,Germany,2023-05-28,2023-06-09
+CUST-724834,DEL-71315464,Infovolt GmbH,Paketvaegen 50,Stuttgart,Germany,2024-10-29,2025-07-13
+CUST-766563,DEL-60319927,Drivex GmbH,Teknikringen 41,Frankfurt,Germany,2019-06-10,2023-03-24
+CUST-217308,DEL-78057490,Trimbit Handel BV,Neptunusstraat 75,Nantes,France,2023-10-26,2025-11-30
+CUST-100599,DEL-42275631,Teknobit Handel GmbH,Storkvaegen 87,Nuremberg,Germany,2022-08-03,2024-06-22
+CUST-233470,DEL-94457912,Poztech Sp. z o.o.,Portweg 61,Milan,Italy,2021-07-04,2025-03-17
+CUST-915451,DEL-13808225,Genovabit SRL,Industrieweg 83,Lyon,France,2024-10-31,2025-09-01
+CUST-891952,DEL-91883846,Nanobit GmbH,Fabriksgatan 9,Uppsala,Sweden,2024-02-22,2025-06-21
+CUST-863934,DEL-38468360,Quormax Nordic AB,Teknikringen 7,Norrkoping,Sweden,2023-05-15,2024-01-29
+CUST-989545,DEL-15006085,Bolbit SRL,Innovationsvaegen 23,Hamburg,Germany,2020-08-26,2025-05-14
+CUST-371782,DEL-16135823,Napolibit SRL,Gewerbestrasse 95,Mechelen,Belgium,2017-11-18,2018-02-02
+CUST-863934,DEL-47028180,Quormax Nordic AB,Lagervaegen 59,Frankfurt,Germany,2022-01-04,2025-10-02
+CUST-217308,DEL-89379016,Trimbit Handel BV,Havenkade 65,Amsterdam,Netherlands,2022-06-21,2024-03-27
+CUST-340174,DEL-76481885,Fluxbit Systeme GmbH,Marconiweg 65,Paris,France,2023-09-21,2024-09-04
+CUST-246316,DEL-48971765,Blipware Systems GmbH,Depotstraat 92,Den Haag,Netherlands,2024-03-31,2024-10-05
+CUST-542417,DEL-69920305,Zornex Handel GmbH,Logistikweg 91,Norrkoping,Sweden,2024-09-17,2024-10-21
+CUST-745414,DEL-19208698,Bruxbit SARL,Paketvaegen 76,Aalst,Belgium,2014-11-18,2024-01-10
+CUST-262998,DEL-85686878,Plonix Distributie BV,Rue de Commerce 60,Amsterdam,Netherlands,2021-03-04,2025-04-03
+CUST-143860,DEL-28012011,Blipcore Nederland BV,Neptunusstraat 35,Aalst,Belgium,2015-03-31,2024-05-04
+CUST-563246,DEL-45835371,Ghentbit BVBA,ul. Fiktywna 75,Venice,Italy,2023-12-20,2024-01-10
+CUST-946335,DEL-42560305,Trimvolt GmbH,Entrepotstraat 27,Norrkoping,Sweden,2024-04-11,2024-12-22
+CUST-233470,DEL-87641510,Poztech Sp. z o.o.,Gewerbestrasse 93,Bari,Italy,2019-02-08,2025-09-04
+CUST-741390,DEL-44537812,Nexbit France SARL,Industrivaegen 83,Helsingborg,Sweden,2024-07-16,2025-12-10
+CUST-148458,DEL-28419343,Brugbit NV,ul. Fiktywna 42,Florence,Italy,2023-04-10,2023-04-27
+CUST-185965,DEL-50261914,Quormax France SARL,Fabriksgatan 84,Lyon,France,2021-12-05,2022-06-24
+CUST-787277,DEL-15677713,Zirconex Elektronik GmbH,Teknikringen 59,Leipzig,Germany,2020-10-02,2025-08-12
+CUST-806073,DEL-43642236,Vectorex GmbH,Lagervaegen 85,Hamburg,Germany,2012-10-24,2015-10-18
+CUST-320281,DEL-65350347,Voltex Handel BV,Fabriksgatan 30,Utrecht,Netherlands,2018-09-21,2020-06-10
+CUST-731262,DEL-79703656,Quorbit Solutions GmbH,Marconiweg 78,Dresden,Germany,2024-10-02,2025-07-02
+CUST-520521,DEL-85374852,Betabit Systeme GmbH,Transistorstraat 86,Dusseldorf,Germany,2012-10-25,2022-01-21
+CUST-863587,DEL-55439043,Webbit Handel GmbH,Handelsgatan 88,Hamburg,Germany,2022-11-25,2025-08-11
+CUST-454508,DEL-60576565,Polybit Elektronik GmbH,Depotstraat 59,Cologne,Germany,2021-03-02,2023-02-11
+CUST-806073,DEL-11994519,Vectorex GmbH,Gewerbestrasse 76,Cologne,Germany,2019-07-01,2019-09-13
+CUST-812526,DEL-47388792,Blipcore Nordic AB,Gewerbestrasse 55,Nuremberg,Germany,2013-03-15,2019-03-24
+CUST-771088,DEL-50477742,Brexon Handel GmbH,Lagervaegen 73,Norrkoping,Sweden,2017-10-05,2021-09-06
+CUST-627276,DEL-88831486,Zeltron Electronique SARL,Innovationsvaegen 84,Marseille,France,2021-12-21,2024-09-28
+CUST-888387,DEL-79654147,Vektax Electronique SAS,Rue des Fabliers 24,Genoa,Italy,2024-04-18,2025-07-18
+CUST-987204,DEL-41329612,Drelnex BV,Fabriksgatan 76,Bruges,Belgium,2023-08-25,2025-12-05
+CUST-202664,DEL-39738898,Zenobit GmbH,Handelsgatan 22,Namur,Belgium,2022-07-31,2025-06-20
+CUST-340174,DEL-73481797,Fluxbit Systeme GmbH,Storkvaegen 85,Nantes,France,2024-05-31,2024-11-12
+CUST-185965,DEL-64395532,Quormax France SARL,Storkvaegen 71,Leipzig,Germany,2024-06-02,2024-08-08
+CUST-181247,DEL-94819556,Palermobit SRL,Handelsweg 31,Palermo,Italy,2019-03-04,2022-06-19
+CUST-542417,DEL-25145751,Zornex Handel GmbH,Logistikweg 54,Berlin,Germany,2021-10-29,2021-12-10
+CUST-456778,DEL-63448727,Fomtec Vertriebs GmbH,Ringstrasse 33,Breda,Netherlands,2017-12-26,2025-04-07
+CUST-225710,DEL-43878996,Blorvex Systemes SAS,Rue des Fabliers 51,Cologne,Germany,2012-09-09,2021-01-31
+CUST-724834,DEL-24314759,Infovolt GmbH,Storkvaegen 74,Uppsala,Sweden,2023-06-11,2025-01-29
+CUST-498382,DEL-63124147,Nexbit Industrie GmbH,Teknikringen 73,Stuttgart,Germany,2018-04-16,2025-02-11
+CUST-559381,DEL-23311507,Omnitech Handel GmbH,Fabriksgatan 84,Munich,Germany,2024-03-17,2025-10-12
+CUST-176819,DEL-74251933,Drexim SARL,Transistorstraat 24,Dresden,Germany,2014-02-24,2019-11-03
+CUST-585100,DEL-59115280,Yottabit Systeme GmbH,Storkvaegen 7,Berlin,Germany,2024-07-04,2025-01-29
+CUST-217308,DEL-71974027,Trimbit Handel BV,Industrieweg 8,Lublin,Poland,2023-04-19,2025-08-27
+CUST-627276,DEL-28208520,Zeltron Electronique SARL,Neptunusstraat 48,Nantes,France,2024-06-12,2025-08-25
+CUST-503906,DEL-75184410,Warstech Sp. z o.o.,Neptunusstraat 54,Mechelen,Belgium,2021-05-04,2022-07-29
+CUST-288073,DEL-55461591,Florbix Teknik AB,Neptunusstraat 10,Gothenburg,Sweden,2017-03-03,2025-08-27
+CUST-148458,DEL-76757928,Brugbit NV,Depotstraat 17,Katowice,Poland,2024-01-02,2025-07-10
+CUST-853240,DEL-21501669,Milanbit SRL,ul. Fiktywna 32,Nijmegen,Netherlands,2023-06-30,2023-09-23
+CUST-549245,DEL-23492385,Technobit Handel GmbH,ul. Fiktywna 30,Bordeaux,France,2018-12-29,2021-01-11
+CUST-653306,DEL-21819185,Megabit Systeme GmbH,Rue des Fabliers 42,Lodz,Poland,2016-01-29,2024-10-07
+CUST-424308,DEL-53154591,Wrocbit Sp. z o.o.,Ringstrasse 65,Rzeszow,Poland,2018-05-08,2019-01-26
+CUST-288073,DEL-36950221,Florbix Teknik AB,Rue de Commerce 47,Marseille,France,2021-07-18,2024-05-20
+CUST-181247,DEL-35140847,Palermobit SRL,Via Industriale 47,Rome,Italy,2018-04-27,2024-03-30
+CUST-853240,DEL-67961650,Milanbit SRL,Logistikweg 75,Utrecht,Netherlands,2022-11-28,2025-01-24
+CUST-645175,DEL-84801233,Kraktech Sp. z o.o.,Fabricksvaegen 51,Lodz,Poland,2011-11-29,2017-11-13
+CUST-163918,DEL-67337891,Epsilonbit Systeme GmbH,Ringstrasse 7,Palermo,Italy,2018-11-16,2023-03-06
+CUST-100599,DEL-20202996,Teknobit Handel GmbH,Portweg 99,Namur,Belgium,2024-03-25,2025-12-04
+CUST-806073,DEL-33386929,Vectorex GmbH,Industrieweg 17,Florence,Italy,2021-09-04,2024-08-26
+CUST-217308,DEL-48530827,Trimbit Handel BV,Fabriksgatan 12,Krakow,Poland,2023-12-27,2025-09-05
+CUST-814825,DEL-49172995,Krypton Handel GmbH,Entrepotstraat 35,Aalst,Belgium,2022-04-25,2025-01-17
+CUST-992697,DEL-16530784,Nexivo Solutions SARL,ul. Fiktywna 64,Paris,France,2022-01-01,2025-09-11
+CUST-515011,DEL-29834119,Plonex France SARL,Industrieweg 74,Bordeaux,France,2024-03-17,2024-07-17
+CUST-182582,DEL-92590645,Databit GmbH,Fabricksvaegen 3,Stockholm,Sweden,2017-04-26,2019-10-06
+CUST-975136,DEL-42949803,Zoltrix BV,Rue des Fabliers 58,Krakow,Poland,2021-01-12,2025-04-07
+CUST-930555,DEL-76755908,Datalux GmbH,Fabricksvaegen 51,Amsterdam,Netherlands,2022-10-15,2025-05-18
+CUST-656932,DEL-57183837,Firenzbit SRL,Industrieweg 94,Genoa,Italy,2024-10-30,2025-05-08
+CUST-183667,DEL-87835998,Stronex Systeme GmbH,Marconiweg 58,Lublin,Poland,2024-08-04,2025-04-18
+CUST-790993,DEL-96213226,Ultrabit Systeme GmbH,Neptunusstraat 60,Munich,Germany,2023-02-10,2023-11-09
+CUST-814825,DEL-35583290,Krypton Handel GmbH,Via Industriale 96,Grenoble,France,2019-03-10,2019-12-30
+CUST-373432,DEL-54398056,Trimvex Solutions SAS,Entrepotstraat 59,Namur,Belgium,2018-06-02,2021-11-18
+CUST-299448,DEL-48478684,Xenobit GmbH,Via Industriale 90,Warsaw,Poland,2023-04-09,2024-07-02
+CUST-233470,DEL-54458225,Poztech Sp. z o.o.,Innovationsvaegen 75,Lyon,France,2021-12-24,2025-11-12
+CUST-787926,DEL-50364158,Romabit SRL,Neptunusstraat 8,Turin,Italy,2021-09-03,2024-01-14
+CUST-989545,DEL-63283709,Bolbit SRL,Depotstraat 96,Strasbourg,France,2022-01-26,2022-04-22
+CUST-400850,DEL-60961690,Antwertech NV,Havenkade 99,Nantes,France,2018-11-23,2022-03-06
+CUST-559381,DEL-67279295,Omnitech Handel GmbH,Logistikweg 33,Lodz,Poland,2019-10-14,2021-07-10
+CUST-814825,DEL-73380266,Krypton Handel GmbH,Neptunusstraat 71,Wroclaw,Poland,2019-04-12,2023-08-10
+CUST-288073,DEL-22097496,Florbix Teknik AB,Transistorstraat 96,Linkoeping,Sweden,2020-04-01,2022-03-31
+CUST-246413,DEL-23383077,Optivolt GmbH,Neptunusstraat 2,Dusseldorf,Germany,2022-12-04,2025-04-01
+CUST-169403,DEL-68743530,Nexaron GmbH,Innovationsvaegen 47,Berlin,Germany,2024-08-23,2025-09-05
+CUST-182627,DEL-85633013,Gorvex Elektronik GmbH,Depotstraat 41,Berlin,Germany,2018-04-25,2020-08-30
+CUST-989545,DEL-97550053,Bolbit SRL,Gewerbestrasse 69,Rzeszow,Poland,2024-08-03,2025-08-18
+CUST-863587,DEL-88101741,Webbit Handel GmbH,Marconiweg 6,Lodz,Poland,2020-05-19,2023-06-21
+CUST-771088,DEL-81503856,Brexon Handel GmbH,Logistikweg 48,Katowice,Poland,2018-01-27,2023-10-10
+CUST-183667,DEL-45859307,Stronex Systeme GmbH,ul. Fiktywna 93,Berlin,Germany,2021-11-24,2025-03-20
+CUST-795613,DEL-94127561,Quordan Electronica BV,Rue de Commerce 5,Almere,Netherlands,2013-12-17,2019-04-03
+CUST-790993,DEL-32099899,Ultrabit Systeme GmbH,Transistorstraat 91,Malmoe,Sweden,2021-10-10,2023-09-28
+CUST-456778,DEL-46670512,Fomtec Vertriebs GmbH,Havenkade 56,Rotterdam,Netherlands,2022-01-23,2024-07-21
+CUST-992697,DEL-73161098,Nexivo Solutions SARL,Rue de Commerce 2,Linkoeping,Sweden,2024-10-20,2024-12-24
+CUST-853240,DEL-70471823,Milanbit SRL,Gewerbestrasse 46,Genoa,Italy,2021-09-13,2023-10-31
+CUST-329471,DEL-45899440,Torinbit SRL,Gewerbestrasse 19,Almere,Netherlands,2016-09-13,2017-04-18
+CUST-627276,DEL-92631441,Zeltron Electronique SARL,Rue des Fabliers 5,Leuven,Belgium,2023-06-30,2024-02-17
+CUST-555884,DEL-80669879,Quatrix Elektronik GmbH,Logistikweg 44,Berlin,Germany,2024-07-11,2024-12-02
+CUST-814825,DEL-71934487,Krypton Handel GmbH,Fabriksgatan 20,Munich,Germany,2023-03-31,2025-11-20
